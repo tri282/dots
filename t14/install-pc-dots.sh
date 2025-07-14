@@ -15,6 +15,7 @@ CONFIG="$DOTS/.config"
 # .config items
 ln -sf "$CONFIG/fastfetch"  "$HOME/.config/fastfetch"
 ln -sf "$CONFIG/btop"       "$HOME/.config/btop"
+ln -sf "$CONFIG/cava"       "$HOME/.config/cava"
 
 # extra stuff
 mkdir -p "$HOME/Downloads"
