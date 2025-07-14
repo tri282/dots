@@ -12,6 +12,7 @@ cp -v ~/.bashrc "$DOTS/.bashrc"
 
 cp -rv ~/.config/fastfetch "$DOTS/.config/"
 cp -rv ~/.config/btop "$DOTS/.config/"
+cp -rv ~/.config/cava "$DOTS/.config/"
 
 cp -rv "$HOME/Downloads/Custom" "$DOTS/Custom"
 
