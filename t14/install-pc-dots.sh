@@ -5,17 +5,16 @@ DOTS="$HOME/dots/t14"
 
 echo "symlinking dots..."
 
-# Top-level dotfiles
+# top-level dotfiles
 [ -f "$DOTS/.bashrc" ] && ln -sf "$DOTS/.bashrc" "$HOME/.bashrc"
 
-mkdir -p "$HOME/.config"
 
-CONFIG="$DOTS/.config"
 
 # .config items
-ln -sf "$CONFIG/fastfetch"  "$HOME/.config/fastfetch"
-ln -sf "$CONFIG/btop"       "$HOME/.config/btop"
-ln -sf "$CONFIG/cava"       "$HOME/.config/cava"
+ln -sf "$DOTS/fastfetch"  "$HOME/.config/fastfetch"
+ln -sf "$DOTS/btop"       "$HOME/.config/btop"
+ln -sf "$DOTS/cava"       "$HOME/.config/cava"
+ln -sf "$DOTS/spicetify"       "$HOME/.config/spicetify"
 
 # extra stuff
 mkdir -p "$HOME/Downloads"
