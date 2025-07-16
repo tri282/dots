@@ -23,4 +23,7 @@ if [ -d ~/.bashrc.d ]; then
     done
 fi
 unset rc
+
+export PATH=$PATH:/home/tri282/.spicetify
+
 fastfetch
