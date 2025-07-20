@@ -1,5 +1,5 @@
 # Overview  
-Configurations for my work laptop. Mostly follows a warm-orangeish color scheme  
+Configurations for my personal laptop. Mostly follows a nordic/blu-sih gray color scheme  
 
 ## Preview  
 ![Alt text](images/working.png)  
@@ -10,15 +10,15 @@ Configurations for my work laptop. Mostly follows a warm-orangeish color scheme
 
 **Global Theme**  
 
-- Colors: Sweet  
+- Colors: Nordic  
 - Application Style: Breeze  
-- Plasma Style: Sweet  
-- Window Decorations: MoeDark  
-- Icons: Papirus-Dark  
-- Cursors: Bibata-Modern-Ice  
+- Plasma Style: Nordic-Solid  
+- Window Decorations: Nordic  
+- Icons: Zafiro-Nord-Black-Blue  
+- Cursors: Nordic-cursors  
 - System Sounds: Ocean  
-- Splash Screen: Fedora Minimalistic  
-- Login Screen (sddm): Breeze Fedora  
+- Splash Screen: archsimpleblue  
+- Login Screen: tty  
 
 **Fonts**: Noto Sans 10pt  
 
