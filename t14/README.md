@@ -2,11 +2,11 @@
 Configurations for my work laptop. Mostly follows a warm-orangeish color scheme  
 
 ## Preview  
-![Alt text](t14/images/working.png)  
-![Alt text](t14/images/playing.png)  
+![Alt text](images/working.png)  
+![Alt text](images/playing.png)  
 
 ## KDE  
-![Alt text](t14/images/overview.png)  
+![Alt text](images/overview.png)  
 
 **Global Theme**  
 
@@ -40,16 +40,19 @@ Win + L: show power menu
 Win + S: launch system setting  
 
 ## Fastfetch  
-![Alt text](t14/images/fastfetch.png)  
+![Alt text](images/fastfetch.png)  
 
 ## Neovim  
-![Alt text](t14/images/neovim.png)  
+![Alt text](images/neovim.png)  
 
 ## Btop  
-![Alt text](t14/images/btop.png)  
+![Alt text](images/btop.png)  
 
 ## Spotify  
-![Alt text](t14/images/spotify.png)  
+![Alt text](images/spotify.png)  
 
 ## Cava  
-![Alt text](t14/images/spotify.png)  
+![Alt text](images/spotify.png)  
+
+# TODO  
+more detailed readme (wip)
