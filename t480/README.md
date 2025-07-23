@@ -39,20 +39,42 @@ Win + D: peek at desktop
 Win + L: show power menu  
 Win + S: launch system setting  
 
+**Konsole**:  
+- Color scheme & Font: Solarized (modified)  
++ Foreground:  
+Color: #cbdffb  
+Intense color: #6b95a1  
+Faint color: #effff1  
++ Background:  
+Color: #0d0f1a  
+Intense color: #073642  
+Faint color: #002b36  
+- Background color transparency: 29%  
+- Font: Hack 12pt Bold, smooth fonts, draw intense colors in bold font  
+
 ## Fastfetch  
 ![Alt text](images/fastfetch.png)  
 
 ## Neovim  
 ![Alt text](images/neovim.png)  
 
+- Repository: https://github.com/tri282/nvim.git  
+
 ## Btop  
 ![Alt text](images/btop.png)  
+
+- Theme: greyscale  
 
 ## Spotify  
 ![Alt text](images/spotify.png)  
 
+- Spicetify theme: Dribblish - Catppuccin Mocha  
+
 ## Cava  
 ![Alt text](images/cava.png)  
 
+## Other Applications  
+- Oneko  
+
 # TODO  
-more detailed readme (wip)
+more detailed readme (wip)  
